@@ -1,1 +1,2 @@
 Data_iklim.csv filter=lfs diff=lfs merge=lfs -text
+Datmin.ipynb filter=lfs diff=lfs merge=lfs -text
