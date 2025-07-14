@@ -38,7 +38,7 @@ Berikut adalah salah satu visualisasi hasil pengolahan data suhu di Indonesia:
 
 ### 📊 Insight Forecasting Rata-rata 2010–2020
 
-![Tren Suhu Indonesia](Data Mining_Kelompok 4 (2).png)
+![Tren Suhu Indonesia](Insight_DataMining.png)
 
 **Insight**:
 
@@ -52,7 +52,7 @@ Berikut adalah salah satu visualisasi hasil pengolahan data suhu di Indonesia:
 ```
 ├── Datmin.ipynb                     # Notebook utama
 ├── Data_iklim.csv                   # Dataset suhu
-├── Data Mining_Kelompok 4 (2).png   # Poster Inseght yang diambil
+├── Insight_DataMining.png           # Poster Inseght yang diambil
 ├── README.md                        # Dokumentasi proyek
 ```
 
